@@ -101,7 +101,44 @@ video {
 .icon {
   margin-top: 10px;
 }
-@media only screen and (max-width: 600px) {
+/* @media only screen and (max-width: 600px) {
+  .container {
+    width: 250px;
+    height: 550px;
+  }
+  .top-bar input {
+    font-size: 10px;
+    width: 120px;
+    height: 30px;
+  }
+  .search-icon {
+    width: 30px;
+    height: 30px;
+  }
+  .weather-temp {
+    font-size: 40px;
+  }
+  .weather-location {
+    font-size: 30px;
+  }
+  .icon {
+    width: 30px;
+  }
+  .text {
+    font-size: 10px;
+    font-weight: 400;
+  }
+  .data {
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .element {
+    align-items: center;
+    justify-content: center;
+  }
+} */
+
+@media only screen and (max-width: 760px) {
   .container {
     width: 250px;
     height: 550px;
